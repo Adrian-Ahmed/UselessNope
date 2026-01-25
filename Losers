@@ -1,0 +1,27 @@
+
+{
+  "trialDialogue": {
+    "enabled": true,
+    "defaultTime": 7
+  },
+  "updateDialogue": {
+    "enabled": false,
+    "link": "https://youtube.com/@adrian_ahmed"
+  },
+  "expireDialogue": {
+    "link": "https://youtube.com/@adrian_ahmed"
+  },
+  
+  
+  
+  
+  
+  
+  
+{  
+  "users": [
+    {"id": "3d7d...4fd7", "name": "Adrian", "status": "normal", "remainingDays": 14},
+    {"id": "a1b2...e1f2", "name": "Rahat", "status": "normal", "remainingDays": 7},
+    {"id": "f2e1...456", "name": "Zayan", "status": "vip", "remainingDays": 365}
+  ]
+}
