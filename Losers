@@ -1,76 +1,76 @@
 {
-  "globalSettings": {
-    "defaultTrialDays": 7,
-    "dialogs": {
-      "maintenance": {
-        "title": "Server Maintenance",
-        "message": "NopeAi server is under maintenance. Please wait."
-      },
-      "trial": {
-        "title": "Trial Activated",
-        "message": "Congratulations, you have received a {{days}}-day trial."
-      },
-      "upgradeToPro": {
-        "title": "Upgrade Successful",
-        "message": "Congratulations, you are now Pro."
-      },
-      "upgradeToVip": {
-        "title": "VIP Access Granted",
-        "message": "Congratulations, you are now VIP."
-      },
-      "upgradeToOwner": {
-        "title": "Welcome Owner",
-        "message": "Welcome back, Master. You have full control."
-      },
-      "banned": {
-        "title": "Banned",
-        "message": "You have been banned from using NopeAi Pro."
-      },
-      "expire": {
-        "title": "Trial Expired",
-        "message": "Your trial period has ended. Please extend your access to continue using NopeAi Pro.",
-        "link": "https://youtube.com/@adrian_ahmed",
-        "linkText": "Extend Days"
-      },
-      "update": {
-        "enabled": false,
-        "title": "New Version Available",
-        "message": "A new version of NopeAi Pro is available with better performance.",
-        "link": "https://github.com/Adrian-Ahmed/UselessNope/releases",
-        "linkText": "Update Now"
-      }
-    }
-  },
-  "users": [
-    {
-      "id": "848b0edkfkfkd09a1531c5a77ae780",
-      "name": "Adrian",
-      "status": "owner",
-      "remainingDays": null
+    "globalSettings": {
+        "defaultTrialDays": 7,
+        "dialogs": {
+            "maintenance": {
+                "title": "Server Maintenance",
+                "message": "NopeAi server is under maintenance. Please wait."
+            },
+            "trial": {
+                "title": "Trial Activated",
+                "message": "Congratulations, you have received a {{days}}-day trial."
+            },
+            "upgradeToPro": {
+                "title": "Upgrade Successful",
+                "message": "Congratulations, you are now Pro."
+            },
+            "upgradeToVip": {
+                "title": "VIP Access Granted",
+                "message": "Congratulations, you are now VIP."
+            },
+            "upgradeToOwner": {
+                "title": "Welcome Owner",
+                "message": "Welcome back, Master. You have full control."
+            },
+            "banned": {
+                "title": "Banned",
+                "message": "You have been banned from using NopeAi Pro."
+            },
+            "expire": {
+                "title": "Trial Expired",
+                "message": "Your trial period has ended. Please extend your access to continue using NopeAi Pro.",
+                "link": "https://youtube.com/@adrian_ahmed",
+                "linkText": "Extend Days"
+            },
+            "update": {
+                "enabled": false,
+                "title": "New Version Available",
+                "message": "A new version of NopeAi Pro is available with better performance.",
+                "link": "https://github.com/Adrian-Ahmed/UselessNope/releases",
+                "linkText": "Update Now"
+            }
+        }
     },
-    {
-      "id": "848b0ec58c2044d09a1531gzga77ae780",
-      "name": "Yoyo",
-      "status": "pro",
-      "remainingDays": null
-    },
-    {
-      "id": "f2edh1a...456b",
-      "name": "Zayan",
-      "status": "vip",
-      "remainingDays": 365
-    },
-    {
-      "id": "9a8b7...6d5e",
-      "name": "SpamUser",
-      "status": "banned",
-      "remainingDays": 0
-    },
-    {
-      "id": "c3d2e...5f6a",
-      "name": "NewUser",
-      "status": "pro",
-      "remainingDays": 30
-    }
-  ]
+    "users": [
+        {
+            "id": "848b0ec58c2044d09a1531c5a77ae780",
+            "name": "Adrian",
+            "status": "owner",
+            "remainingDays": null
+        },
+        {
+            "id": "848b0ec58c2044d09a1531gzga77ae780",
+            "name": "Yoyo",
+            "status": "pro",
+            "remainingDays": null
+        },
+        {
+            "id": "f2edh1a...456b",
+            "name": "Zayan",
+            "status": "vip",
+            "remainingDays": 365
+        },
+        {
+            "id": "9a8b7...6d5e",
+            "name": "SpamUser",
+            "status": "banned",
+            "remainingDays": 0
+        },
+        {
+            "id": "c3d2e...5f6a",
+            "name": "NewUser",
+            "status": "pro",
+            "remainingDays": 30
+        }
+    ]
 }
