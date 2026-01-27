@@ -33,8 +33,47 @@
                 "linkText": "Extend Days"
             },
             "update": {
-                "enabled": true,
+                "enabled": false,
                 "title": "New Version Available",
+                "message": "A new version of NopeAi Pro is available with better performance.",
+                "link": "https://github.com/Adrian-Ahmed/UselessNope/releases",
+                "linkText": "Update Now"
+            }
+        }
+    },
+    "users": [
+        {
+            "id": "59dc8c9515cf3a6aa821cab5528a3879",
+            "name": "Adrian",
+            "status": "owner",
+            "remainingDays": null
+        },
+        {
+            "id": "848b0ec58c2044d09a1531gzga77ae780",
+            "name": "Yoyo",
+            "status": "pro",
+            "remainingDays": null
+        },
+        {
+            "id": "f2edh1a...456b",
+            "name": "Zayan",
+            "status": "vip",
+            "remainingDays": 365
+        },
+        {
+            "id": "9a8b7...6d5e",
+            "name": "SpamUser",
+            "status": "banned",
+            "remainingDays": 0
+        },
+        {
+            "id": "c3d2e...5f6a",
+            "name": "NewUser",
+            "status": "pro",
+            "remainingDays": 30
+        }
+    ]
+}                "title": "New Version Available",
                 "message": "A new version of NopeAi Pro is available with better performance.",
                 "link": "https://github.com/Adrian-Ahmed/UselessNope/releases",
                 "linkText": "Update Now"
