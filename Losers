@@ -33,7 +33,7 @@
                 "linkText": "Extend Days"
             },
             "update": {
-                "enabled": false,
+                "enabled": true,
                 "title": "New Version Available",
                 "message": "A new version of NopeAi Pro is available with better performance.",
                 "link": "https://github.com/Adrian-Ahmed/UselessNope/releases",
@@ -45,8 +45,8 @@
         {
             "id": "59dc8c9515cf3a6aa821cab5528a3879",
             "name": "Adrian",
-            "status": "pro",
-            "remainingDays": 1
+            "status": "owner",
+            "remainingDays": null
         },
         {
             "id": "848b0ec58c2044d09a1531gzga77ae780",
