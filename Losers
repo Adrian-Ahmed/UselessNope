@@ -33,7 +33,7 @@
                 "linkText": "Extend Days"
             },
             "update": {
-                "enabled": false,
+                "enabled": true,
                 "title": "New Version Available",
                 "message": "A new version of NopeAi Pro is available with better performance.",
                 "link": "https://github.com/Adrian-Ahmed/UselessNope/releases",
