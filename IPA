@@ -1,3 +1,9 @@
-NopFvdrtP0DlqcYCU4oczTdGYF3bydGWY0MY7UYTohFWkhnXUKxM_ksg
-
-;uO6JPDI7RUgyYHImMK7DuV72YF3bydGW7AEufWpgHVwbayiZkZUQ_ksg
+{
+  "model": "llama-3.3-70b-versatile",
+  "display_name": "Llama 3.3 [Groq]",
+  "base_url": "https://api.groq.com/openai/v1",
+  "keys": [
+    "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",
+    "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"
+  ]
+}
